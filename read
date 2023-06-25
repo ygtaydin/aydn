@@ -1,0 +1,6 @@
+Console.WriteLine("--------------------------------------------------------");
+            Console.WriteLine("Girilen Metin : " + str);
+            Console.WriteLine("--------------------------------------------------------");
+            Console.WriteLine("Toplam Karakter Sayısı : " + totalCharacter);
+            Console.WriteLine("Toplam Harf Sayısı : " + totalLetterChar);
+            Console.WriteLine("Toplam Rakam Sayısı : " + totalDigitChar);
